@@ -34,8 +34,6 @@ A 12-week structured project plan focused on understanding and improving sales p
 ## 📁 Files
 
 - `Project Plan PPT.pptx` – Final presentation deck outlining the entire project  
-- (Optional) Add screenshots or visuals if you upload more!
-
 ---
 
 ## 🧠 Key Takeaway
